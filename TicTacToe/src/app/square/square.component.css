@@ -1,0 +1,8 @@
+span.indicator {
+    font-size: 60px;
+    text-align: center;
+    width: inherit;
+    display: block;
+    height: inherit;
+    line-height: 96px;
+}
